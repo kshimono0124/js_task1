@@ -1,0 +1,16 @@
+
+.container {
+  margin: 270px auto;
+  width: 320px;
+}
+
+#timer {
+  margin: 50px 0 50px 20px;
+  font-size: 30px;
+  letter-spacing: 8px;
+}
+
+.btn {
+  padding: 10px;
+  font-weight: bold;
+}
